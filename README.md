@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Saif Zaman
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning Java based Selenium, TestNG as testing framework, build tool Maven, also exploring ReST API testing tools RestAssured and Postman.
+- 👀 I love coding and teaching
+- 🌱 I’m currently learning/teaching Java based Selenium, TestNG as testing framework, build tool Maven, also exploring ReST API testing tools RestAssured and Postman, programming in Java,     
+     Python. SQL, JavaScript React etc. 
 - - 📫 How to reach me :saizaman18@yahoo.com
 
 <!---
